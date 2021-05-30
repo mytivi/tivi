@@ -40,6 +40,9 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 group-title="Astro" tvg-id="108" tvg-chno="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
+#EXTINF:-1 tvg-id="dramasangat" tvg-name="dramasangat" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysia",DRAMA SANGAT
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
+
 #EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysia",Naura (576p)
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
