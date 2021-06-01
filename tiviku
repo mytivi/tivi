@@ -248,9 +248,14 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1 group-title="Lokal",Bioskop Indonesia
 http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
 
+#EXTINF:-1  group-title="MAL",OH!K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
+#EXTINF:-1  group-title="MAL",KBS World
+http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
 
-
+#EXTINF:-1  group-title="MAL",tvN movie
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
 
 
