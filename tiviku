@@ -243,7 +243,8 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="Lokal",Transtv https://etslive-2-vidio-com.akamaized.net/exp=1622583015~acl=/hls-b/ingest_733_*/*~hmac=fc62a2a5ec4b1a38c7a09fbcca412028643eaa611cd0ee4db0bb0a01b1394a1c/hls-b/ingest_733_480p/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/trans7.png" group-title="Lokal",Trans7 https://etslive-2-vidio-com.akamaized.net/exp=1622583016~acl=/hls-b/ingest_734_*/*~hmac=8c7d4b3decb08433d8c1a835a64feeefc3ec99c7d4ac7ccd062b845a0ebb7fe1/hls-b/ingest_734_480p/index.m3u8 
+#EXTINF:-1 group-title="Lokal",Trans7 
+https://etslive-2-vidio-com.akamaized.net/exp=1622583016~acl=/hls-b/ingest_734_*/*~hmac=8c7d4b3decb08433d8c1a835a64feeefc3ec99c7d4ac7ccd062b845a0ebb7fe1/hls-b/ingest_734_480p/index.m3u8 
 
 #EXTINF:-1 group-title="Lokal",Bioskop Indonesia
 http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
