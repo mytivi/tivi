@@ -46,53 +46,73 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysia",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
-
 #EXTINF:-1 group-title="Astro" tvg-id="404" tvg-chno="404" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",Boo HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Indonesia",SCTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1622583012~acl=/hls-b/ingest_204_*/*~hmac=a8105b841b0de88718b602fbedc1431c63234e5d41d99c748133de5725a99a6c/hls-b/ingest_204_480p/index.m3u8 
+
+#EXTINF:-1 group-title="Indonesia",INDOSIAR 
+https://etslive-2-vidio-com.akamaized.net/exp=1622583012~acl=/hls-b/ingest_205_*/*~hmac=9b3f398a1f0daaf908ffec2c205339232701fa32a93ee6659fc30f2ece61692a/hls-b/ingest_205_480p/index.m3u8 
+
+#EXTINF:-1 group-title="Indonesia",RCTI 
+https://etslive-2-vidio-com.akamaized.net/exp=1622583013~acl=/hls-b/ingest_665_*/*~hmac=e8d049a16d4674159e2b3ba9ea6779dec92fa4688a2991e26c27ac0f1e6f754f/hls-b/ingest_665_480p/index.m3u8 
+
+#EXTINF:-1 group-title="Indonesia",MNCTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1622583014~acl=/hls-p/ingest_870_*/*~hmac=191758a94fa7cd32aae6b3f26bc33fecce8aab9ed348a8740ddb473f8aaa9892/hls-p/ingest_870_360p/index.m3u8 
+
+#EXTINF:-1 group-title="Indonesia",GTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1622583015~acl=/hls-p/ingest_778_*/*~hmac=d09ab8bf19d98b398d0f5f43e198600a4b3312fc2b54c842639e64f128f94531/hls-p/ingest_778_360p/index.m3u8 
+
+#EXTINF:-1 group-title="Indonesia",Transtv 
+https://etslive-2-vidio-com.akamaized.net/exp=1622583015~acl=/hls-b/ingest_733_*/*~hmac=fc62a2a5ec4b1a38c7a09fbcca412028643eaa611cd0ee4db0bb0a01b1394a1c/hls-b/ingest_733_480p/index.m3u8 
+
+#EXTINF:-1 group-title="Indonesia",Trans7 
+https://etslive-2-vidio-com.akamaized.net/exp=1622583016~acl=/hls-b/ingest_734_*/*~hmac=8c7d4b3decb08433d8c1a835a64feeefc3ec99c7d4ac7ccd062b845a0ebb7fe1/hls-b/ingest_734_480p/index.m3u8 
+
+#EXTINF:-1 group-title="Indonesia",Bioskop Indonesia
+http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmY1MDA1ZDUtNmMzMC0zOGI0LTlkN2YtYWQ2ZWU4MmM2OTAz
-#EXTINF:-1 group-title="Astro" tvg-id="395" tvg-chno="395" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN HD
-http://1.9.15.104/PLTV/88888888/224/3221227556/3221227556.mpd
-
-#EXTINF:-1 group-title="Astro" tvg-id="395" tvg-chno="395" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN HD
+#EXTINF:-1 group-title="Korea" tvg-id="395" tvg-chno="395" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN HD
 http://1.9.15.104/PLTV/88888888/224/3221227556/3221227556.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmY1MDA1ZDUtNmMzMC0zOGI0LTlkN2YtYWQ2ZWU4MmM2OTAz
-#EXTINF:-1 group-title="Astro" tvg-id="416" tvg-chno="416" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",tvN Movies HD
+#EXTINF:-1 group-title="Korea" tvg-id="416" tvg-chno="416" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",tvN Movies HD
 http://1.9.15.104/PLTV/88888888/224/3221227553/3221227553.mpd
 
-
-#EXTINF:-1  group-title="MAL",OH!K
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-
-#EXTINF:-1  group-title="MAL",KBS World
-http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS 1" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" group-title="South Korea",KBS
-
-#EXTINF:-1 tvg-id="SBSInternational.kr" tvg-name="SBS International" tvg-country="KR" tvg-language="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="South Korea",SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-
-#EXTINF:-1 tvg-id="SBSPlusInternational.kr" tvg-name="SBS Plus International" tvg-country="KR" tvg-language="" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="South Korea",SBS Plus International
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-
-#EXTINF:-1 tvg-id="SBSStar.kr" tvg-name="SBS Star" tvg-country="KR" tvg-language="" tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="South Korea",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-
-#EXTINF:-1  group-title="MAL",tvN movie
+#EXTINF:-1  group-title="Korea",tvN movie
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArirangHD.kr" tvg-name="Arirang HD" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="South Korea",Arirang HD (1080p)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1  group-title="Korea",OH!K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
+#EXTINF:-1  group-title="Korea",KBS World
+http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS 1" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" group-title="Korea",KBS
+
+#EXTINF:-1 tvg-id="SBSInternational.kr" tvg-name="SBS International" tvg-country="KR" tvg-language="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="Korea",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SBSPlusInternational.kr" tvg-name="SBS Plus International" tvg-country="KR" tvg-language="" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="Korea",SBS Plus International
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SBSStar.kr" tvg-name="SBS Star" tvg-country="KR" tvg-language="" tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="Korea",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ArirangHD.kr" tvg-name="Arirang HD" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="Korea",Arirang HD (1080p)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="MOVIES",KBS WORLD
+#EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="Korea",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 
@@ -253,29 +273,7 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 
 
-#EXTINF:-1 group-title="Lokal",SCTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1622583012~acl=/hls-b/ingest_204_*/*~hmac=a8105b841b0de88718b602fbedc1431c63234e5d41d99c748133de5725a99a6c/hls-b/ingest_204_480p/index.m3u8 
 
-#EXTINF:-1 group-title="Lokal",INDOSIAR 
-https://etslive-2-vidio-com.akamaized.net/exp=1622583012~acl=/hls-b/ingest_205_*/*~hmac=9b3f398a1f0daaf908ffec2c205339232701fa32a93ee6659fc30f2ece61692a/hls-b/ingest_205_480p/index.m3u8 
-
-#EXTINF:-1 group-title="Lokal",RCTI 
-https://etslive-2-vidio-com.akamaized.net/exp=1622583013~acl=/hls-b/ingest_665_*/*~hmac=e8d049a16d4674159e2b3ba9ea6779dec92fa4688a2991e26c27ac0f1e6f754f/hls-b/ingest_665_480p/index.m3u8 
-
-#EXTINF:-1 group-title="Lokal",MNCTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1622583014~acl=/hls-p/ingest_870_*/*~hmac=191758a94fa7cd32aae6b3f26bc33fecce8aab9ed348a8740ddb473f8aaa9892/hls-p/ingest_870_360p/index.m3u8 
-
-#EXTINF:-1 group-title="Lokal",GTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1622583015~acl=/hls-p/ingest_778_*/*~hmac=d09ab8bf19d98b398d0f5f43e198600a4b3312fc2b54c842639e64f128f94531/hls-p/ingest_778_360p/index.m3u8 
-
-#EXTINF:-1 group-title="Lokal",Transtv 
-https://etslive-2-vidio-com.akamaized.net/exp=1622583015~acl=/hls-b/ingest_733_*/*~hmac=fc62a2a5ec4b1a38c7a09fbcca412028643eaa611cd0ee4db0bb0a01b1394a1c/hls-b/ingest_733_480p/index.m3u8 
-
-#EXTINF:-1 group-title="Lokal",Trans7 
-https://etslive-2-vidio-com.akamaized.net/exp=1622583016~acl=/hls-b/ingest_734_*/*~hmac=8c7d4b3decb08433d8c1a835a64feeefc3ec99c7d4ac7ccd062b845a0ebb7fe1/hls-b/ingest_734_480p/index.m3u8 
-
-#EXTINF:-1 group-title="Lokal",Bioskop Indonesia
-http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
 
 
 
