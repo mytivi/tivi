@@ -231,26 +231,26 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="Nasional", TRANS TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/23/1689208654.jpg" group-title="Lokal",SCTV https://etslive-2-vidio-com.akamaized.net/exp=1622583012~acl=/hls-b/ingest_204_*/*~hmac=a8105b841b0de88718b602fbedc1431c63234e5d41d99c748133de5725a99a6c/hls-b/ingest_204_480p/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="Nasional", MNC
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-wSAJw7yCiN0/Tc_j5JhOm1I/AAAAAAAAA-Q/S7nyqarjNmQ/s1600/Indosiar+09.jpg" group-title="Lokal",INDOSIAR https://etslive-2-vidio-com.akamaized.net/exp=1622583012~acl=/hls-b/ingest_205_*/*~hmac=9b3f398a1f0daaf908ffec2c205339232701fa32a93ee6659fc30f2ece61692a/hls-b/ingest_205_480p/index.m3u8 
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Indosiar 2
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162138
- 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="Nasional", RCTI
-https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="Lokal",RCTI https://etslive-2-vidio-com.akamaized.net/exp=1622583013~acl=/hls-b/ingest_665_*/*~hmac=e8d049a16d4674159e2b3ba9ea6779dec92fa4688a2991e26c27ac0f1e6f754f/hls-b/ingest_665_480p/index.m3u8 
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", SCTV 2
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="Lokal",MNCTV https://etslive-2-vidio-com.akamaized.net/exp=1622583014~acl=/hls-p/ingest_870_*/*~hmac=191758a94fa7cd32aae6b3f26bc33fecce8aab9ed348a8740ddb473f8aaa9892/hls-p/ingest_870_360p/index.m3u8 
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", ANTV 1
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/gtv.png" group-title="Lokal",GTV https://etslive-2-vidio-com.akamaized.net/exp=1622583015~acl=/hls-p/ingest_778_*/*~hmac=d09ab8bf19d98b398d0f5f43e198600a4b3312fc2b54c842639e64f128f94531/hls-p/ingest_778_360p/index.m3u8 
 
-#EXTINF:-1 group-title="Movies",Bioskop Indonesia
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="Lokal",Transtv https://etslive-2-vidio-com.akamaized.net/exp=1622583015~acl=/hls-b/ingest_733_*/*~hmac=fc62a2a5ec4b1a38c7a09fbcca412028643eaa611cd0ee4db0bb0a01b1394a1c/hls-b/ingest_733_480p/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/trans7.png" group-title="Lokal",Trans7 https://etslive-2-vidio-com.akamaized.net/exp=1622583016~acl=/hls-b/ingest_734_*/*~hmac=8c7d4b3decb08433d8c1a835a64feeefc3ec99c7d4ac7ccd062b845a0ebb7fe1/hls-b/ingest_734_480p/index.m3u8 
+
+#EXTINF:-1 group-title="Lokal",Bioskop Indonesia
 http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
+
+
+
+
 
 
 
