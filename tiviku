@@ -391,7 +391,17 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264765
 #EXTINF:-1 group-title="Knowledge",Asian Food Network (V)
 http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
  
+#EXTINF:-1 group-title="Knowledge", National Geographic 
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0 
 
+#EXTINF:-1 group-title="Knowledge", Nat Geo People 
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0 
+
+#EXTINF:-1 group-title="Knowledge", Nat Geo Wild 
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0 
+
+#EXTINF:-1 group-title="Knowledge", Discovery Channel 
+https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
 
 
 
