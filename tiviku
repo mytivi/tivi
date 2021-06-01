@@ -49,6 +49,9 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 group-title="Astro" tvg-id="404" tvg-chno="404" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",Boo HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MALAYSIA",DRAMA SANGAT
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
+
 
 #EXTINF:-1 group-title="Indonesia",SCTV 
 https://etslive-2-vidio-com.akamaized.net/exp=1622583012~acl=/hls-b/ingest_204_*/*~hmac=a8105b841b0de88718b602fbedc1431c63234e5d41d99c748133de5725a99a6c/hls-b/ingest_204_480p/index.m3u8 
@@ -263,8 +266,8 @@ http://1.9.15.104/PLTV/88888888/224/3221227623/3221227623.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="514" tvg-chno="514" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png",Sky News HD
 http://1.9.15.104/PLTV/88888888/224/3221227718/3221227718.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-id="801" tvg-chno="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1  group-title="MAL",Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="811" tvg-chno="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
