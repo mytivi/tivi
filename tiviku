@@ -10,6 +10,9 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1  group-title="Malaysia",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="LIVE | MEDIA PRIMA",TV 3 HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/8750
+
 #EXTINF:-1 group-title="Astro" tvg-id="103" tvg-chno="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
@@ -112,16 +115,23 @@ https://etslive-2-vidio-com.akamaized.net/exp=1622583016~acl=/hls-b/ingest_734_*
 
 
 
+#EXTINF:-1 tvg-id="one.my" tvg-name="One HD" tvg-logo="http://tvmalaysia.cc:80/images/a276677082f8a5ae9e541e6b1cbf5a33.jpg" group-title="LIVE | ASTRO",One HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6817
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmY1MDA1ZDUtNmMzMC0zOGI0LTlkN2YtYWQ2ZWU4MmM2OTAz
-#EXTINF:-1 group-title="Korea" tvg-id="395" tvg-chno="395" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN HD
-http://1.9.15.104/PLTV/88888888/224/3221227556/3221227556.mpd
+#EXTINF:-1 tvg-id="tvn.my" tvg-name="tvN HD" tvg-logo="http://tvmalaysia.cc:80/images/7f1eaa630170244ea3da72e50b0251a6.png" group-title="LIVE | ASTRO",tvN HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6844
+
+#EXTINF:-1 tvg-id="" tvg-name="TvN" tvg-logo="" group-title="LIVE | KOREA",TvN
+http://iptv.tvmalaysia.cc:80/penang170/penang170/8865
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmY1MDA1ZDUtNmMzMC0zOGI0LTlkN2YtYWQ2ZWU4MmM2OTAz
 #EXTINF:-1 group-title="Korea" tvg-id="416" tvg-chno="416" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",tvN Movies HD
 http://1.9.15.104/PLTV/88888888/224/3221227553/3221227553.mpd
+
+#EXTINF:-1 tvg-id="tvnmovies.id" tvg-name="tVN movies HD" tvg-logo="http://tvmalaysia.cc:80/images/4b198ded39b98f40cd51bb35e638b9f3.png" group-title="LIVE | MOVIE (subtitle)",tVN movies HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/7074
 
 #EXTINF:-1  group-title="Korea",tvN movie
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
@@ -153,8 +163,8 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF:-1 group-title="Astro" tvg-id="611" tvg-chno="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/0bb9f1ec6575c3609eb8af6c1ba0e154.jpg" group-title="LIVE | ASTRO",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6715
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmY1MDA1ZDUtNmMzMC0zOGI0LTlkN2YtYWQ2ZWU4MmM2OTAz
