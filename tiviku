@@ -28,20 +28,32 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u
 #EXTINF:-1 group-title="Astro" tvg-id="114" tvg-chno="114" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",Al-Hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-id="104" tvg-chno="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+##EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/92d374077520f51a0bbcc2316400b160.png" group-title="LIVE | ASTRO",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6730
 
-#EXTINF:-1 group-title="Astro" tvg-id="105" tvg-chno="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/a004afb90cb82b79aa75399df806306a.png" group-title="LIVE | ASTRO",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6727
 
-#EXTINF:-1 group-title="Astro" tvg-id="106" tvg-chno="106" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5b79d07a6bc50bc8ebebd635cb09c195.png" group-title="LIVE | ASTRO",ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6740
 
-#EXTINF:-1 group-title="Astro" tvg-id="108" tvg-chno="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/d5f15dd37f6373993e7ce1bbf5865cde.png" group-title="LIVE | ASTRO",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/penang170/penang170/7267
 
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Astro",Naura (576p)
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-id="naura.my" tvg-name="ASTRO Naura HD" tvg-logo="http://tvmalaysia.cc:80/images/3fc806e53327b40380da6ee1da935b08.png" group-title="LIVE | ASTRO",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6724
+
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/204c81bf83a076777488ae8222c4e7d4.png" group-title="LIVE | ASTRO",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6725
+
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="LIVE | ASTRO",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6713
+
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="LIVE | ASTRO",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6729
+
+
+
 
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Astro",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
