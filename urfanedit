@@ -6,10 +6,10 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/14
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV2
 https://link.zozotv.xyz:443/Freemium1/unlimited99/13
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png",TV1 CH101
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1HD" group-title="MALAYSIA",TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1, group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png",TV2 CH102
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV2HD" group-title="MALAYSIA",TV2 HD
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3
