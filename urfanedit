@@ -73,7 +73,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.ibb.co/ZTqV0P4/vgcdb.png" group-title="MALAYSIA",Bernama
 https://link.zozotv.xyz:443/Freemium1/unlimited99/27
 
-#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-name="RTM Parlimen (Dewan Rakyat)" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="" group-title="Malaysia",RTM Parlimen (Dewan Rakyat) (1080p)
+#EXTINF:-1 group-title="MALAYSIA",RTM Parlimen (Dewan Rakyat) HD
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="KOREA",tvN
@@ -138,12 +138,22 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/50
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA",ANTV
 https://link.zozotv.xyz:443/Freemium1/unlimited99/51
 
+#EXTINF:-1 group-title="Singapore",(SG) Suria
+http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
 
+#EXTINF:-1 group-title="Singapore",(SG) Channel U
+http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/baa5a46acbd1f2a395ce4.png",Astro AEC 
+#EXTINF:-1 group-title="Singapore",(SG) Channel 5
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+
+#EXTINF:-1 group-title="Singapore",(SG) Channel 8
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/baa5a46acbd1f2a395ce4.png",Astro AEC 
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD 
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HUAHEITAI" tvg-name="Hua Hee Tai" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png" group-title="CHINESE",Hua Hee Tai
