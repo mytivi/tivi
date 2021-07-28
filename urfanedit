@@ -65,7 +65,7 @@ http://iptv.tvmalaysia.cc:80/penang170/penang170/6729
 #EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-logo="https://i.ibb.co/HqZSS6q/gwse.png" group-title="MALAYSIA",Hello
 https://link.zozotv.xyz:443/Freemium1/unlimited99/42
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",Ceria-B
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",Ceria
 https://link.zozotv.xyz:443/Freemium1/unlimited99/32
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Awani" tvg-logo="https://i.ibb.co/rbSH8xj/gn.png" group-title="MALAYSIA",Awani
