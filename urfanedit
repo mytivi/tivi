@@ -6,6 +6,12 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/14
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV2
 https://link.zozotv.xyz:443/Freemium1/unlimited99/13
 
+#EXTINF:-1, group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png",TV1 CH101
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png",TV2 CH102
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3
 https://link.zozotv.xyz:443/Freemium1/unlimited99/17
 
@@ -47,8 +53,8 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/37
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA",BOO
 https://link.zozotv.xyz:443/Freemium1/unlimited99/2
 
-#EXTINF:-1 tvg-id="naura.my" tvg-name="ASTRO Naura HD" tvg-logo="http://tvmalaysia.cc:80/images/3fc806e53327b40380da6ee1da935b08.png" group-title="MALAYSIA",ASTRO Naura HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6724
+#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png",Naura HD 
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="MALAYSIA",ASTRO Aura HD
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6713
@@ -85,6 +91,9 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/78
 
 #EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="KOREA",K+
 https://link.zozotv.xyz:443/Freemium1/unlimited99/80
+
+#EXTINF:-1 group-title="Entertainment",OH!K TV
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/sHr5wg5/sgfz.png" group-title="KOREA",Arirang
 https://link.zozotv.xyz:443/Freemium1/unlimited99/77
