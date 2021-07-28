@@ -53,7 +53,7 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/37
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA",BOO
 https://link.zozotv.xyz:443/Freemium1/unlimited99/2
 
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png",Naura HD 
+#EXTINF:-1 group-title="ASTRO TV",Naura HD 
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 #EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="MALAYSIA",ASTRO Aura HD
