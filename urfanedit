@@ -62,6 +62,10 @@ http://iptv.tvmalaysia.cc:80/penang170/penang170/6713
 #EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA",ASTRO Rania HD
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6729
 
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Astro",TVS (576p)
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+
 #EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-logo="https://i.ibb.co/HqZSS6q/gwse.png" group-title="MALAYSIA",Hello
 https://link.zozotv.xyz:443/Freemium1/unlimited99/42
 
@@ -138,10 +142,6 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/50
 
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA",ANTV
 https://link.zozotv.xyz:443/Freemium1/unlimited99/51
-
-#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Astro",TVS (576p)
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-
 
 
 
