@@ -95,6 +95,15 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/80
 #EXTINF:-1 group-title="Entertainment",OH!K TV
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SBS International" tvg-logo="https://i.ibb.co/drt0RnZ/sbs.png" group-title="KOREA",SBS International
+https://link.zozotv.xyz:443/Freemium1/unlimited99/275
+
+#EXTINF:-1 tvg-id="" tvg-name="SBS Plus" tvg-logo="https://i.ibb.co/tQ8LD0C/sbsp.png" group-title="KOREA",SBS Plus
+https://link.zozotv.xyz:443/Freemium1/unlimited99/276
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-logo="https://i.ibb.co/FwjcytL/tbc.png" group-title="KOREA",JTBC
+https://link.zozotv.xyz:443/Freemium1/unlimited99/274
+
 #EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/sHr5wg5/sgfz.png" group-title="KOREA",Arirang
 https://link.zozotv.xyz:443/Freemium1/unlimited99/77
 
@@ -385,14 +394,6 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/269
 #EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/YZDxCg2/ddddddd.png" group-title="KIDS",Cbeebies
 https://link.zozotv.xyz:443/Freemium1/unlimited99/273
 
-#EXTINF:-1 tvg-id="" tvg-name="SBS International" tvg-logo="https://i.ibb.co/drt0RnZ/sbs.png" group-title="KOREA",SBS International
-https://link.zozotv.xyz:443/Freemium1/unlimited99/275
-
-#EXTINF:-1 tvg-id="" tvg-name="SBS Plus" tvg-logo="https://i.ibb.co/tQ8LD0C/sbsp.png" group-title="KOREA",SBS Plus
-https://link.zozotv.xyz:443/Freemium1/unlimited99/276
-
-#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-logo="https://i.ibb.co/FwjcytL/tbc.png" group-title="KOREA",JTBC
-https://link.zozotv.xyz:443/Freemium1/unlimited99/274
 
 #EXTINF:-1 tvg-id="" tvg-name="Weilai Movie" tvg-logo="https://i.ibb.co/F5BrdZK/zz.png" group-title="CHINESE",Weilai Movie
 https://link.zozotv.xyz:443/Freemium1/unlimited99/268
